@@ -1,6 +1,6 @@
 import {Component} from 'react'
 import Cookies from 'js-cookie'
-import Loader from 'react-loader-spinner'
+import Loader from 'react-loader-spinner' // npm install react-loader-spinner@4.0.0
 import 'react-loader-spinner/dist/loader/css/react-spinner-loader.css'
 import ProductCard from '../ProductCard'
 import './index.css'
